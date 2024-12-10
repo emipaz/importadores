@@ -1,0 +1,10 @@
+python-dotenv
+langchain
+langchain_openai
+langchain_chroma
+Flask
+Flask-Cors
+flask-talisman
+Markdown
+python-markdown-math
+html2text
