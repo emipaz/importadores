@@ -1,0 +1,9 @@
+.env
+env/
+import_bot/
+Clase_1/
+Clase_2/
+Clase_3/
+__pycache__/
+*.pyc
+*.log
